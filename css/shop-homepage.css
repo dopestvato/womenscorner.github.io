@@ -1,0 +1,73 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    background: url('../img/bgfull.jpg') no-repeat center center fixed;
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+h2 {
+    text-align: center;
+}
+
+.jumbotron {
+    background: url('../img/bg.jpg') no-repeat center center fixed;
+    text-align: justify;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+.well {
+    margin-left: 10cm;
+    margin-right: 10cm;
+    background-color: #ffe6e6;
+    border-radius: 20px;
+}
+
+footer {
+    margin: 50px 0;
+}
